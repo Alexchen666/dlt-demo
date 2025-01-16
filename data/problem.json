@@ -1,0 +1,109 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "value": 100,
+        "timestamp": "2024-01-01 00:00:00",
+        "description": "Simple text",
+        "category": "A"
+      },
+      {
+        "id": 2,
+        "value": 200.5,
+        "timestamp": "2024-01-02 12:30:45",
+        "description": "Text with, comma inside",
+        "category": "B"
+      },
+      {
+        "id": 3,
+        "value": true,
+        "timestamp": "2024-01-03 15:20:30",
+        "description": "Text with \"quotes\" inside",
+        "category": "A"
+      },
+      {
+        "id": 4,
+        "value": "Hello, World!",
+        "timestamp": "2024-01-04 08:15:00",
+        "description": "Mixed case TEXT and numbers 123",
+        "category": "C"
+      },
+      {
+        "id": 5,
+        "value": null,
+        "timestamp": "2024-01-05 09:00:00",
+        "description": "Unicode characters: 你好世界",
+        "category": "a"
+      },
+      {
+        "id": 6,
+        "value": null,
+        "timestamp": "2024-01-06 10:45:00",
+        "description": "Special chars: @#$%^&*()",
+        "category": null
+      },
+      {
+        "id": 7,
+        "value": {"key": "value"},
+        "timestamp": "2024-01-07 14:20:00",
+        "description": "Multi\nline\ntext",
+        "category": "B/SubCategory1"
+      },
+      {
+        "id": 8,
+        "value": -999.99,
+        "timestamp": "2024-01-08 16:30:00",
+        "description": "Very                  long             spaces",
+        "category": "A/SubCategory1"
+      },
+      {
+        "id": 9,
+        "value": 1e6,
+        "timestamp": "2024-01-09 18:45:00",
+        "description": "HTML-like <tag>content</tag>",
+        "category": "C/SubCategory2"
+      },
+      {
+        "id": 10,
+        "value": "2024-01-10",
+        "timestamp": "2024-01-10 20:00:00",
+        "description": "URL: https://example.com/path?param=value",
+        "category": "unknown"
+      },
+      {
+        "id": 11,
+        "value": "inf",
+        "timestamp": "2024-01-11 22:15:00",
+        "description": "Emoji content: 🌟 ⭐ 🌍",
+        "category": "B/SubCategory2"
+      },
+      {
+        "id": 12,
+        "value": "  leading spaces  ",
+        "timestamp": "2024-01-12 23:59:59",
+        "description": "Mixed scripts: English與中文",
+        "category": "UNDEFINED"
+      },
+      {
+        "id": 13,
+        "value": "line1\nline2",
+        "timestamp": "2024-01-13 01:30:00",
+        "description": "    Text with leading spaces",
+        "category": "N/A"
+      },
+      {
+        "id": 14,
+        "value": "#special@chars$",
+        "timestamp": "2024-01-14 03:45:00",
+        "description": "Text with trailing spaces    ",
+        "category": "A/SubCategory2"
+      },
+      {
+        "id": 15,
+        "value": "123abc",
+        "timestamp": "2024-01-15 05:00:00",
+        "description": "🏠 Home sweet home 🏠",
+        "category": "Other"
+      }
+    ]
+  }
