@@ -1,0 +1,16 @@
+id,assigned_to,duration_minutes,status,cost_estimate
+1,john.doe@company.com,120,completed,1500.00
+2,alice.smith@company.com,90,completed,2000.00
+3,bob.wilson@company.com,180,in_progress,3000.00
+4,sarah.jones@company.com,150,completed,2500.00
+5,mike.brown@company.com,60,pending,1000.00
+6,emma.davis@company.com,240,completed,4000.00
+7,james.miller@company.com,120,completed,2000.00
+8,olivia.wilson@company.com,180,in_progress,3500.00
+9,william.taylor@company.com,90,completed,1500.00
+10,sophia.anderson@company.com,150,pending,2500.00
+11,alexander.thomas@company.com,120,completed,2000.00
+12,isabella.martin@company.com,210,in_progress,3500.00
+13,ethan.white@company.com,150,completed,2500.00
+14,ava.johnson@company.com,90,pending,1500.00
+15,noah.garcia@company.com,180,completed,3000.00

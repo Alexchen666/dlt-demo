@@ -1,0 +1,16 @@
+id,assigned_to,duration_minutes,status,cost_estimate
+16,mia.martinez@company.com,240,in_progress,4000.00
+17,lucas.robinson@company.com,120,completed,2000.00
+18,emily.clark@company.com,150,completed,2500.00
+19,daniel.rodriguez@company.com,180,pending,3000.00
+20,victoria.lee@company.com,90,completed,1500.00
+21,david.walker@company.com,210,in_progress,3500.00
+22,sophia.hall@company.com,150,completed,2500.00
+23,joseph.allen@company.com,120,pending,2000.00
+24,olivia.young@company.com,180,completed,3000.00
+25,henry.king@company.com,240,in_progress,4000.00
+26,elizabeth.wright@company.com,150,completed,2500.00
+27,alexander.lopez@company.com,90,pending,1500.00
+28,charlotte.hill@company.com,180,completed,3000.00
+29,benjamin.scott@company.com,120,in_progress,2000.00
+30,amelia.green@company.com,210,completed,3500.00
